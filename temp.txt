@@ -1,0 +1,218 @@
+Tempature: 38 Percipitation: 15% Humidity: 92% Wind: 9 mph
+Tempature: 38 Percipitation: 15% Humidity: 91% Wind: 9 mph
+Tempature: 38 Percipitation: 15% Humidity: 91% Wind: 9 mph
+Tempature: 38 Percipitation: 15% Humidity: 91% Wind: 9 mph
+Tempature: 38 Percipitation: 15% Humidity: 90% Wind: 8 mph
+Tempature: 38 Percipitation: 15% Humidity: 90% Wind: 8 mph
+Tempature: 38 Percipitation: 15% Humidity: 90% Wind: 8 mph
+Tempature: 38 Percipitation: 15% Humidity: 90% Wind: 8 mph
+Tempature: 38 Percipitation: 15% Humidity: 90% Wind: 8 mph
+Tempature: 38 Percipitation: 15% Humidity: 90% Wind: 8 mph
+Tempature: 38 Percipitation: 15% Humidity: 90% Wind: 8 mph
+Tempature: 38 Percipitation: 15% Humidity: 90% Wind: 8 mph
+Tempature: 38 Percipitation: 15% Humidity: 90% Wind: 8 mph
+Tempature: 38 Percipitation: 15% Humidity: 90% Wind: 9 mph
+Tempature: 38 Percipitation: 15% Humidity: 90% Wind: 9 mph
+Tempature: 38 Percipitation: 15% Humidity: 90% Wind: 9 mph
+Tempature: 38 Percipitation: 15% Humidity: 90% Wind: 9 mph
+Tempature: 38 Percipitation: 15% Humidity: 90% Wind: 9 mph
+Tempature: 38 Percipitation: 15% Humidity: 90% Wind: 9 mph
+Tempature: 38 Percipitation: 15% Humidity: 90% Wind: 8 mph
+Tempature: 38 Percipitation: 15% Humidity: 90% Wind: 8 mph
+Tempature: 38 Percipitation: 15% Humidity: 90% Wind: 8 mph
+Tempature: 38 Percipitation: 15% Humidity: 90% Wind: 8 mph
+Tempature: 38 Percipitation: 15% Humidity: 90% Wind: 8 mph
+Tempature: 38 Percipitation: 15% Humidity: 90% Wind: 8 mph
+Tempature: 38 Percipitation: 15% Humidity: 90% Wind: 8 mph
+Tempature: 38 Percipitation: 15% Humidity: 90% Wind: 8 mph
+Tempature: 38 Percipitation: 15% Humidity: 90% Wind: 8 mph
+Tempature: 37 Percipitation: 15% Humidity: 93% Wind: 8 mph
+Tempature: 37 Percipitation: 15% Humidity: 93% Wind: 8 mph
+Tempature: 37 Percipitation: 15% Humidity: 93% Wind: 8 mph
+Tempature: 37 Percipitation: 15% Humidity: 92% Wind: 9 mph
+Tempature: 37 Percipitation: 15% Humidity: 92% Wind: 9 mph
+Tempature: 37 Percipitation: 15% Humidity: 92% Wind: 9 mph
+Tempature: 37 Percipitation: 15% Humidity: 92% Wind: 9 mph
+Tempature: 37 Percipitation: 15% Humidity: 92% Wind: 9 mph
+Tempature: 37 Percipitation: 15% Humidity: 92% Wind: 9 mph
+Tempature: 37 Percipitation: 15% Humidity: 91% Wind: 9 mph
+Tempature: 37 Percipitation: 15% Humidity: 91% Wind: 9 mph
+Tempature: 37 Percipitation: 15% Humidity: 91% Wind: 9 mph
+Tempature: 37 Percipitation: 15% Humidity: 90% Wind: 9 mph
+Tempature: 37 Percipitation: 15% Humidity: 90% Wind: 9 mph
+Tempature: 37 Percipitation: 15% Humidity: 90% Wind: 9 mph
+Tempature: 36 Percipitation: 1% Humidity: 95% Wind: 9 mph
+Tempature: 36 Percipitation: 1% Humidity: 95% Wind: 9 mph
+Tempature: 36 Percipitation: 1% Humidity: 95% Wind: 9 mph
+Tempature: 36 Percipitation: 1% Humidity: 95% Wind: 9 mph
+Tempature: 36 Percipitation: 1% Humidity: 94% Wind: 9 mph
+Tempature: 36 Percipitation: 1% Humidity: 94% Wind: 9 mph
+Tempature: 36 Percipitation: 15% Humidity: 93% Wind: 9 mph
+Tempature: 36 Percipitation: 15% Humidity: 93% Wind: 9 mph
+Tempature: 36 Percipitation: 15% Humidity: 93% Wind: 9 mph
+Tempature: 36 Percipitation: 15% Humidity: 91% Wind: 9 mph
+Tempature: 36 Percipitation: 15% Humidity: 91% Wind: 9 mph
+Tempature: 36 Percipitation: 46% Humidity: 91% Wind: 9 mph
+Tempature: 36 Percipitation: 46% Humidity: 91% Wind: 10 mph
+Tempature: 36 Percipitation: 46% Humidity: 91% Wind: 10 mph
+Tempature: 36 Percipitation: 46% Humidity: 91% Wind: 10 mph
+Tempature: 36 Percipitation: 46% Humidity: 92% Wind: 10 mph
+Tempature: 36 Percipitation: 46% Humidity: 92% Wind: 10 mph
+Tempature: 36 Percipitation: 45% Humidity: 92% Wind: 10 mph
+Tempature: 36 Percipitation: 45% Humidity: 91% Wind: 11 mph
+Tempature: 36 Percipitation: 45% Humidity: 91% Wind: 11 mph
+Tempature: 36 Percipitation: 45% Humidity: 91% Wind: 11 mph
+Tempature: 36 Percipitation: 45% Humidity: 91% Wind: 10 mph
+Tempature: 36 Percipitation: 45% Humidity: 91% Wind: 10 mph
+Tempature: 35 Percipitation: 45% Humidity: 94% Wind: 9 mph
+Tempature: 35 Percipitation: 45% Humidity: 94% Wind: 9 mph
+Tempature: 35 Percipitation: 45% Humidity: 94% Wind: 9 mph
+Tempature: 35 Percipitation: 45% Humidity: 94% Wind: 10 mph
+Tempature: 35 Percipitation: 45% Humidity: 94% Wind: 10 mph
+Tempature: 35 Percipitation: 59% Humidity: 94% Wind: 10 mph
+Tempature: 35 Percipitation: 59% Humidity: 94% Wind: 11 mph
+Tempature: 35 Percipitation: 59% Humidity: 94% Wind: 11 mph
+Tempature: 35 Percipitation: 59% Humidity: 94% Wind: 11 mph
+Tempature: 35 Percipitation: 59% Humidity: 94% Wind: 9 mph
+Tempature: 35 Percipitation: 59% Humidity: 94% Wind: 9 mph
+Tempature: 35 Percipitation: 46% Humidity: 94% Wind: 9 mph
+Tempature: 35 Percipitation: 46% Humidity: 94% Wind: 10 mph
+Tempature: 35 Percipitation: 46% Humidity: 94% Wind: 10 mph
+Tempature: 35 Percipitation: 46% Humidity: 94% Wind: 10 mph
+Tempature: 35 Percipitation: 46% Humidity: 94% Wind: 10 mph
+Tempature: 35 Percipitation: 67% Humidity: 94% Wind: 10 mph
+Tempature: 35 Percipitation: 67% Humidity: 94% Wind: 9 mph
+Tempature: 35 Percipitation: 67% Humidity: 94% Wind: 9 mph
+Tempature: 35 Percipitation: 67% Humidity: 94% Wind: 9 mph
+Tempature: 35 Percipitation: 67% Humidity: 94% Wind: 9 mph
+Tempature: 35 Percipitation: 67% Humidity: 94% Wind: 9 mph
+Tempature: 35 Percipitation: 86% Humidity: 94% Wind: 9 mph
+Tempature: 35 Percipitation: 86% Humidity: 94% Wind: 10 mph
+Tempature: 35 Percipitation: 86% Humidity: 94% Wind: 10 mph
+Tempature: 35 Percipitation: 86% Humidity: 94% Wind: 10 mph
+Tempature: 35 Percipitation: 86% Humidity: 94% Wind: 10 mph
+Tempature: 35 Percipitation: 86% Humidity: 94% Wind: 9 mph
+Tempature: 35 Percipitation: 92% Humidity: 94% Wind: 9 mph
+Tempature: 35 Percipitation: 92% Humidity: 94% Wind: 9 mph
+Tempature: 35 Percipitation: 92% Humidity: 94% Wind: 9 mph
+Tempature: 35 Percipitation: 92% Humidity: 94% Wind: 9 mph
+Tempature: 35 Percipitation: 92% Humidity: 94% Wind: 9 mph
+Tempature: 35 Percipitation: 92% Humidity: 94% Wind: 9 mph
+Tempature: 35 Percipitation: 92% Humidity: 94% Wind: 9 mph
+Tempature: 35 Percipitation: 92% Humidity: 94% Wind: 9 mph
+Tempature: 35 Percipitation: 92% Humidity: 93% Wind: 9 mph
+Tempature: 35 Percipitation: 79% Humidity: 93% Wind: 9 mph
+Tempature: 35 Percipitation: 79% Humidity: 93% Wind: 9 mph 10:22
+Tempature: 35 Percipitation: 79% Humidity: 93% Wind: 8 mph 10:27  2/5
+Tempature: 35 Percipitation: 79% Humidity: 93% Wind: 8 mph 10:32  2/5
+Tempature: 35 Percipitation: 79% Humidity: 93% Wind: 8 mph 10:37  2/5
+Tempature: 35 Percipitation: 79% Humidity: 94% Wind: 8 mph 10:43  2/5
+Tempature: 35 Percipitation: 79% Humidity: 94% Wind: 8 mph 10:48  2/5
+Tempature: 35 Percipitation: 94% Humidity: 94% Wind: 8 mph 10:53  2/5
+Tempature: 35 Percipitation: 94% Humidity: 95% Wind: 8 mph 10:58  2/5
+Tempature: 35 Percipitation: 94% Humidity: 95% Wind: 8 mph 11:4  2/5
+Tempature: 35 Percipitation: 94% Humidity: 95% Wind: 8 mph 11:9  2/5
+Tempature: 35 Percipitation: 94% Humidity: 94% Wind: 8 mph 11:14  2/5
+Tempature: 35 Percipitation: 94% Humidity: 94% Wind: 8 mph 11:19  2/5
+Tempature: 35 Percipitation: 73% Humidity: 94% Wind: 8 mph 11:25  2/5
+Tempature: 35 Percipitation: 73% Humidity: 94% Wind: 7 mph 11:30  2/5
+Tempature: 35 Percipitation: 73% Humidity: 94% Wind: 7 mph 11:35  2/5
+Tempature: 35 Percipitation: 73% Humidity: 94% Wind: 7 mph 11:40  2/5
+Tempature: 35 Percipitation: 73% Humidity: 95% Wind: 7 mph 11:46  2/5
+Tempature: 35 Percipitation: 71% Humidity: 95% Wind: 7 mph 11:51  2/5
+Tempature: 35 Percipitation: 71% Humidity: 95% Wind: 7 mph 11:56  2/5
+Tempature: 35 Percipitation: 71% Humidity: 95% Wind: 7 mph 12:1  2/5
+Tempature: 35 Percipitation: 71% Humidity: 95% Wind: 7 mph 12:6  2/5
+Tempature: 35 Percipitation: 71% Humidity: 95% Wind: 7 mph 12:12  2/5
+Tempature: 35 Percipitation: 71% Humidity: 94% Wind: 9 mph 12:17  2/5
+Tempature: 35 Percipitation: 58% Humidity: 94% Wind: 9 mph 12:22  2/5
+Tempature: 35 Percipitation: 58% Humidity: 95% Wind: 9 mph 12:27  2/5
+Tempature: 35 Percipitation: 58% Humidity: 95% Wind: 9 mph 12:33  2/5
+Tempature: 35 Percipitation: 58% Humidity: 95% Wind: 9 mph 12:38  2/5
+Tempature: 35 Percipitation: 58% Humidity: 95% Wind: 9 mph 12:39  2/5
+Tempature: 35 Percipitation: 30% Humidity: 95% Wind: 9 mph 12:50  2/5
+Tempature: 35 Percipitation: 30% Humidity: 95% Wind: 9 mph 12:55  2/5
+Tempature: 36 Percipitation: 30% Humidity: 91% Wind: 9 mph 13:0  2/5
+Tempature: 36 Percipitation: 30% Humidity: 91% Wind: 9 mph 13:5  2/5
+Tempature: 36 Percipitation: 30% Humidity: 91% Wind: 9 mph 13:11  2/5
+Tempature: 36 Percipitation: 30% Humidity: 91% Wind: 8 mph 13:16  2/5
+Tempature: 36 Percipitation: 5% Humidity: 91% Wind: 8 mph 13:20  2/5
+Tempature: 36 Percipitation: 5% Humidity: 91% Wind: 8 mph 13:23  2/5
+Tempature: 36 Percipitation: 5% Humidity: 90% Wind: 8 mph 13:28  2/5
+Tempature: 36 Percipitation: 5% Humidity: 90% Wind: 8 mph 13:33  2/5
+Tempature: 36 Percipitation: 5% Humidity: 90% Wind: 8 mph 13:38  2/5
+Tempature: 37 Percipitation: 5% Humidity: 86% Wind: 7 mph 13:44  2/5
+Tempature: 37 Percipitation: 5% Humidity: 86% Wind: 7 mph 13:49  2/5
+Tempature: 37 Percipitation: 4% Humidity: 86% Wind: 7 mph 13:54  2/5
+Tempature: 37 Percipitation: 4% Humidity: 85% Wind: 7 mph 13:59  2/5
+Tempature: 37 Percipitation: 4% Humidity: 85% Wind: 7 mph 14:5  2/5
+Tempature: 37 Percipitation: 4% Humidity: 85% Wind: 7 mph 14:10  2/5
+Tempature: 37 Percipitation: 4% Humidity: 86% Wind: 8 mph 14:15  2/5
+Tempature: 37 Percipitation: 7% Humidity: 86% Wind: 8 mph 14:20  2/5
+Tempature: 37 Percipitation: 7% Humidity: 86% Wind: 8 mph 14:26  2/5
+Tempature: 37 Percipitation: 7% Humidity: 86% Wind: 7 mph 14:32  2/5
+Tempature: 37 Percipitation: 7% Humidity: 86% Wind: 7 mph 14:33  2/5
+Tempature: 37 Percipitation: 7% Humidity: 86% Wind: 7 mph 14:35  2/5
+Tempature: 37 Percipitation: 7% Humidity: 86% Wind: 7 mph 14:40  2/5
+Tempature: 37 Percipitation: 7% Humidity: 86% Wind: 5 mph 14:45  2/5
+Tempature: 37 Percipitation: 35% Humidity: 86% Wind: 5 mph 14:51  2/5
+Tempature: 37 Percipitation: 35% Humidity: 86% Wind: 5 mph 14:56  2/5
+Tempature: 37 Percipitation: 35% Humidity: 86% Wind: 5 mph 15:1  2/5
+Tempature: 37 Percipitation: 35% Humidity: 86% Wind: 6 mph 15:6  2/5
+Tempature: 37 Percipitation: 35% Humidity: 86% Wind: 6 mph 15:12  2/5
+Tempature: 37 Percipitation: 35% Humidity: 86% Wind: 6 mph 15:17  2/5
+Tempature: 37 Percipitation: 35% Humidity: 87% Wind: 6 mph 15:22  2/5
+Tempature: 37 Percipitation: 71% Humidity: 87% Wind: 6 mph 15:27  2/5
+Tempature: 37 Percipitation: 71% Humidity: 87% Wind: 6 mph 15:33  2/5
+Tempature: 37 Percipitation: 71% Humidity: 87% Wind: 6 mph 15:38  2/5
+Tempature: 37 Percipitation: 71% Humidity: 88% Wind: 6 mph 15:43  2/5
+Tempature: 37 Percipitation: 71% Humidity: 88% Wind: 6 mph 15:48  2/5
+Tempature: 37 Percipitation: 71% Humidity: 88% Wind: 6 mph 15:54  2/5
+Tempature: 37 Percipitation: 71% Humidity: 88% Wind: 5 mph 15:59  2/5
+Tempature: 37 Percipitation: 83% Humidity: 88% Wind: 5 mph 16:4  2/5
+Tempature: 37 Percipitation: 83% Humidity: 88% Wind: 5 mph 16:9  2/5
+Tempature: 37 Percipitation: 83% Humidity: 87% Wind: 6 mph 16:15  2/5
+Tempature: 37 Percipitation: 83% Humidity: 87% Wind: 6 mph 16:20  2/5
+Tempature: 37 Percipitation: 83% Humidity: 87% Wind: 6 mph 16:25  2/5
+Tempature: 37 Percipitation: 83% Humidity: 87% Wind: 6 mph 16:30  2/5
+Tempature: 37 Percipitation: 83% Humidity: 87% Wind: 6 mph 16:36  2/5
+Tempature: 37 Percipitation: 83% Humidity: 88% Wind: 6 mph 16:41  2/5
+Tempature: 37 Percipitation: 83% Humidity: 88% Wind: 6 mph 16:46  2/5
+Tempature: 37 Percipitation: 83% Humidity: 88% Wind: 6 mph 16:52  2/5
+Tempature: 37 Percipitation: 83% Humidity: 88% Wind: 6 mph 16:57  2/5
+Tempature: 37 Percipitation: 14% Humidity: 88% Wind: 6 mph 17:2  2/5
+Tempature: 37 Percipitation: 14% Humidity: 88% Wind: 6 mph 17:7  2/5
+Tempature: 37 Percipitation: 14% Humidity: 89% Wind: 6 mph 17:12  2/5
+Tempature: 37 Percipitation: 14% Humidity: 89% Wind: 6 mph 17:18  2/5
+Tempature: 37 Percipitation: 14% Humidity: 89% Wind: 6 mph 17:23  2/5
+Tempature: 37 Percipitation: 14% Humidity: 89% Wind: 7 mph 17:28  2/5
+Tempature: 37 Percipitation: 2% Humidity: 89% Wind: 7 mph 17:33  2/5
+Tempature: 37 Percipitation: 2% Humidity: 89% Wind: 7 mph 17:39  2/5
+Tempature: 37 Percipitation: 2% Humidity: 88% Wind: 7 mph 17:44  2/5
+Tempature: 37 Percipitation: 2% Humidity: 88% Wind: 7 mph 17:49  2/5
+Tempature: 37 Percipitation: 2% Humidity: 88% Wind: 7 mph 17:54  2/5
+Tempature: 37 Percipitation: 0% Humidity: 88% Wind: 7 mph 18:0  2/5
+Tempature: 37 Percipitation: 0% Humidity: 88% Wind: 7 mph 18:5  2/5
+Tempature: 37 Percipitation: 0% Humidity: 88% Wind: 7 mph 18:10  2/5
+Tempature: 37 Percipitation: 0% Humidity: 88% Wind: 7 mph 18:15  2/5
+Tempature: 37 Percipitation: 0% Humidity: 88% Wind: 7 mph 18:21  2/5
+Tempature: 37 Percipitation: 0% Humidity: 88% Wind: 7 mph 18:26  2/5
+Tempature: 37 Percipitation: 0% Humidity: 87% Wind: 7 mph 18:31  2/5
+Tempature: 37 Percipitation: 0% Humidity: 87% Wind: 7 mph 18:36  2/5
+Tempature: 37 Percipitation: 0% Humidity: 88% Wind: 7 mph 18:41  2/5
+Tempature: 37 Percipitation: 0% Humidity: 88% Wind: 7 mph 18:47  2/5
+Tempature: 37 Percipitation: 0% Humidity: 88% Wind: 7 mph 18:52  2/5
+Tempature: 37 Percipitation: 0% Humidity: 87% Wind: 7 mph 18:57  2/5
+Tempature: 37 Percipitation: 0% Humidity: 87% Wind: 7 mph 19:2  2/5
+Tempature: 37 Percipitation: 0% Humidity: 87% Wind: 7 mph 19:8  2/5
+Tempature: 37 Percipitation: 0% Humidity: 87% Wind: 6 mph 19:13  2/5
+Tempature: 37 Percipitation: 0% Humidity: 87% Wind: 6 mph 19:18  2/5
+Tempature: 37 Percipitation: 0% Humidity: 87% Wind: 6 mph 19:23  2/5
+Tempature: 37 Percipitation: 0% Humidity: 86% Wind: 7 mph 19:29  2/5
+Tempature: 37 Percipitation: 0% Humidity: 86% Wind: 7 mph 19:34  2/5
+Tempature: 37 Percipitation: 0% Humidity: 86% Wind: 7 mph 19:39  2/5
+Tempature: 36 Percipitation: 0% Humidity: 89% Wind: 7 mph 19:44  2/5
+Tempature: 36 Percipitation: 0% Humidity: 89% Wind: 7 mph 19:50  2/5
+Tempature: 36 Percipitation: 0% Humidity: 89% Wind: 7 mph 19:55  2/5
+Tempature: 36 Percipitation: 0% Humidity: 90% Wind: 7 mph 20:0  2/5
+Tempature: 36 Percipitation: 0% Humidity: 90% Wind: 7 mph 20:5  2/5
